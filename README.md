@@ -1,7 +1,12 @@
 # Financial-Actuarial-mathematics-in-HKUST
 This is about the Actuarial Mathematics Notes I wrote
 
-I will update the notes about Actuarial Science when I am taking the correspondence course (~Probaly not since I am so lazy~).
+I will update my notes about Actuarial Science when I am taking the correspondence course (~Probaly not since I am so lazy~).
 
-## (Name of Course1)
-coming soon
+## MATH2511-Fudamental of Actuarial Math
+As the first course in actuarial mathematics, MATH2511 not only introduces elementary methods for financial analysis but also provides rigorous proofs of the tools employed throughout the course.(yes, you can say this is more tedious then other acturarial course)
+
+***
+
+<span style="color:blue">Upon completion of this course</span>, you will be prepared to pass the SOA-FM exam.
+
