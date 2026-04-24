@@ -5,7 +5,7 @@ I will update my notes about Actuarial Science when I am taking the corresponden
 
 ## 2XXX-level course
 <details>
-<summary>MATH2511-Fudamental of Actuarial Mathematics</summary><br/>
+<summary>MATH2511-Fundamentala of Actuarial Mathematics</summary><br/>
 As the first course in actuarial mathematics, MATH2511 not only introduces elementary methods for financial analysis but also provides rigorous proofs of the tools employed throughout the course.(yes, you can say this is more tedious then other acturarial course)
 
 ***
